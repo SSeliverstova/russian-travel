@@ -1,0 +1,12 @@
+.header__nav {
+  display: grid;
+  column-gap: 18px;
+  grid-template-columns: repeat(2, auto);
+  padding: 18px 0 6px 0;
+}
+
+@media screen and (max-width: 425px) {
+  .header__nav {
+    padding-top: 14px;
+  }
+}

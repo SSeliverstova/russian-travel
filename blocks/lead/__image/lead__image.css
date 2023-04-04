@@ -1,0 +1,11 @@
+.lead__image {
+  margin: 56px auto 8px auto;
+  max-width: 100%;
+  max-height: calc(580 / 928 * 100%);
+}
+
+@media screen and (max-width: 425px) {
+  .lead__image {
+    margin-top: 40px;
+  }
+}
