@@ -12,13 +12,12 @@
 
 @media screen and (max-width: 768px) {
   .intro__title {
-    max-width: calc(720 / 768 * 100%);
+    max-width: 100%;
   }
 }
 
 @media screen and (max-width: 425px) {
   .intro__title {
-    max-width: calc(288 / 320 * 100%);
     font-size: 32px;
     line-height: 35px;
   }

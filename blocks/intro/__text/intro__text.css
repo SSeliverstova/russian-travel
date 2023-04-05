@@ -10,12 +10,6 @@
 
 @media screen and (max-width: 768px) {
   .intro__text {
-    max-width: calc(720 / 768 * 100%);
-  }
-}
-
-@media screen and (max-width: 425px) {
-  .intro__text {
-    max-width: calc(288 / 320 * 100%);
+    max-width: 100%;
   }
 }

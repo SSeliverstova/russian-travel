@@ -15,4 +15,4 @@
 
 **Ссылка на GitHub Pages**
 
-* [Ссылка на GitHub Pages](https://github.com/SSeliverstova/russian-travel)
+* [Ссылка на GitHub Pages](https://sseliverstova.github.io/russian-travel/)

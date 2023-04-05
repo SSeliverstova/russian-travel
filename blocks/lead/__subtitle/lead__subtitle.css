@@ -10,7 +10,7 @@
   color: #FFFFFF;
 }
 
-@media screen and (max-width: 768px) and (min-width: 425px) {
+@media screen and (max-width: 767px) {
   .lead__subtitle {
     max-width: 90%;
     font-size: 4vw;
@@ -23,5 +23,6 @@
     max-width: 288px;
     font-size: 16px;
     line-height: 20px;
+    margin-top: 16px;
   }
 }

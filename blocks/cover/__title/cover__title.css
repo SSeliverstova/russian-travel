@@ -6,6 +6,7 @@
   line-height: 76px;
   color: #FFFFFF;
   margin: 0 0 32px 0;
+  z-index: 0;
 }
 
 @media screen and (max-width: 767px) {
@@ -13,7 +14,7 @@
     max-width: calc(560 / 768 * 100%);
     font-size: 10vw;
     line-height: calc(76 / 72 * 100%);
-    margin: 0 0 16px 0;
+    margin-bottom: 16px;
   }
 }
 

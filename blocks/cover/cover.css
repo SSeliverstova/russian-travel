@@ -2,8 +2,6 @@
   display: flex;
   margin: 0 auto;
   align-self: center;
-  align-items: stretch;
-  justify-content: stretch;
   background-image: url(../../images/cover-trains.jpg);
   background-repeat: no-repeat;
   background-size: cover;

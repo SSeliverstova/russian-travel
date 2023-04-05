@@ -1,4 +1,4 @@
-.header__nav {
+.header__lang-links {
   display: grid;
   column-gap: 18px;
   grid-template-columns: repeat(2, auto);
@@ -6,7 +6,7 @@
 }
 
 @media screen and (max-width: 425px) {
-  .header__nav {
+  .header__lang-links {
     padding-top: 14px;
   }
 }
